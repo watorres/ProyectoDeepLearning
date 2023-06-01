@@ -5,3 +5,5 @@
 ### La competencia sobre la cual desarrollamos este proyecto es la descrita en https://www.kaggle.com/competitions/smartphone-decimeter-2022/overview/description
 ### Los datos analizados en la solución del problema están en https://github.com/watorres/ProyectoDeepLearning/raw/main/device_gnss.csv.zip la cual corresponde a una copia descargada de kaggle y son cargados directamente en cada codelab.
 
+### El enlace al video youtube con el informe final del proyecto es https://youtu.be/UG6-Se7H4NY
+
